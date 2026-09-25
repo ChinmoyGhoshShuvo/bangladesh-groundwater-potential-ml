@@ -1,0 +1,19 @@
+# Source: data inside the Word charts of "Thesis 2 Water.docx" (Fig. 11 ANN, Fig. 12 RF). Percent relative importance, as reported (rounded; ANN sums to 99, RF to 101).
+factor,category,ANN,RF
+Drainage density,Topographic,11,4
+Soil type,Land use & geology,5,3
+Rainfall,Meteorological,10,9
+Slope,Topographic,5,7
+Humidity,Meteorological,8,6
+Soil permeability,Land use & geology,1,2
+Geology,Land use & geology,3,7
+Land use / land cover,Land use & geology,5,13
+Access to tap water,Socio-economic,2,6
+Access to tubewell,Socio-economic,3,5
+Topographic Position Index (TPI),Topographic,4,1
+Drought (SPI),Meteorological,8,11
+Morphology,Land use & geology,8,10
+Lineament density,Land use & geology,10,4
+Soil salinity,Land use & geology,1,2
+Land surface temperature,Meteorological,11,9
+Topographic Wetness Index (TWI),Topographic,4,2
